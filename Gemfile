@@ -2,7 +2,7 @@ source "https://rubygems.org"
 ruby ENV['CUSTOM_RUBY_VERSION'] || '~> 2.5.0'
 
 gem 'rake'
-gem 'jekyll', '~> 3.0'
+gem 'jekyll', '~> 3.7'
 gem 'rouge',  '~> 1.10'
 
 gem 'unicorn'
